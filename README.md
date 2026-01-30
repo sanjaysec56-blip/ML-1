@@ -52,8 +52,8 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](<img width="790" height="605" alt="Screenshot 2026-01-30 111346" src="https://github.com/user-attachments/assets/2717f5c9-5088-41b9-a2d4-8770936ecfc2" />
-)
+<img width="790" height="605" alt="Screenshot 2026-01-30 111346" src="https://github.com/user-attachments/assets/52b9f610-2656-492d-972a-600a617cec89" />
+
 
 
 ## Result:
